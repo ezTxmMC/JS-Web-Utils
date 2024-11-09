@@ -5,3 +5,5 @@ class Popup {
         this.title = title;
     }
 }
+
+module.exports = Popup;
